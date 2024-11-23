@@ -1,0 +1,196 @@
+GUI:
+  Title: 'American Icon Furniture Parts'
+Parts:
+  None:
+    Runtime: 0
+  Stock-Op-1:
+    Runtime: 15
+  Stock-Op-2:
+    Runtime: 30
+  RH-Forearm-Op-1:
+    Runtime: 50
+  LH-Forearm-Op-1:
+    Runtime: 100
+  Grip-Op-1:
+    Runtime: 300
+  Grip-Op-2:
+    Runtime: 5
+  Forearm-Pair-Op-2:
+    Runtime: 20
+Selectors:
+  Fixture-141 :
+    ColumnLoc: 0
+    RowLoc: 0
+    Options: 
+    - 'None'
+    - 'Stock-Op-2'
+  Fixture-142 :
+    ColumnLoc: 0
+    RowLoc: 1
+    Options: 
+    - 'None'
+    - 'Stock-Op-2'
+  Fixture-143 :
+    ColumnLoc: 0
+    RowLoc: 2
+    Options: 
+    - 'None'
+    - 'Stock-Op-2'
+  Fixture-144 :
+    ColumnLoc: 0
+    RowLoc: 3
+    Options: 
+    - 'None'
+    - 'Stock-Op-2'
+  Fixture-145 :
+    ColumnLoc: 0
+    RowLoc: 4
+    Options: 
+    - 'None'
+    - 'Stock-Op-2'
+  Fixture-131 :
+    ColumnLoc: 1
+    RowLoc: 0
+    Options: 
+    - 'None'
+    - 'Stock-Op-1'
+    - 'RH-Forearm-Op-1'
+    - 'LH-Forearm-Op-1'
+  Fixture-132 :
+    ColumnLoc: 1
+    RowLoc: 1
+    Options: 
+    - 'None'
+    - 'Stock-Op-2'
+  Fixture-133 :
+    ColumnLoc: 1
+    RowLoc: 2
+    Options: 
+    - 'None'
+    - 'Stock-Op-1'
+    - 'RH-Forearm-Op-1'
+    - 'LH-Forearm-Op-1'
+  Fixture-134 :
+    ColumnLoc: 1
+    RowLoc: 3
+    Options: 
+    - 'None'
+    - 'Stock-Op-2'
+  Fixture-135 :
+    ColumnLoc: 1
+    RowLoc: 4
+    Options: 
+    - 'None'
+    - 'Stock-Op-1'
+    - 'RH-Forearm-Op-1'
+    - 'LH-Forearm-Op-1'
+  Fixture-120 :
+    ColumnLoc: 2
+    RowLoc: 0
+    Options: 
+    - 'None'
+    - 'Grip-Op-1'
+  Fixture-122 :
+    ColumnLoc: 2
+    RowLoc: 1
+    Options: 
+    - 'None'
+    - 'Stock-Op-1'
+    - 'RH-Forearm-Op-1'
+    - 'LH-Forearm-Op-1'
+  Fixture-124 :
+    ColumnLoc: 2
+    RowLoc: 2
+    Options: 
+    - 'None'
+    - 'Stock-Op-1'
+    - 'RH-Forearm-Op-1'
+    - 'LH-Forearm-Op-1'
+  Fixture-126 :
+    ColumnLoc: 2
+    RowLoc: 3
+    Options: 
+    - 'None'
+    - 'Grip-Op-1'
+  Fixture-111 :
+    ColumnLoc: 3
+    RowLoc: 0
+    Options: 
+    - 'None'
+    - 'Stock-Op-1'
+    - 'RH-Forearm-Op-1'
+    - 'LH-Forearm-Op-1'
+  Fixture-113 :
+    ColumnLoc: 3
+    RowLoc: 1
+    Options: 
+    - 'None'
+    - 'Forearm-Pair-Op-2'
+  Fixture-115 :
+    ColumnLoc: 3
+    RowLoc: 2
+    Options: 
+    - 'None'
+    - 'Forearm-Pair-Op-2'
+  Fixture-121 :
+    ColumnLoc: 4
+    RowLoc: 0
+    Options: 
+    - 'None'
+  Fixture-123 :
+    ColumnLoc: 4
+    RowLoc: 1
+    Options: 
+    - 'None'
+  Fixture-125 :
+    ColumnLoc: 4
+    RowLoc: 2
+    Options: 
+    - 'None'
+  Fixture-106 :
+    ColumnLoc: 5
+    RowLoc: 0
+    Options: 
+    - 'None'
+    - 'Grip-Op-1'
+  Fixture-108 :
+    ColumnLoc: 5
+    RowLoc: 1
+    Options: 
+    - 'None'
+    - 'Grip-Op-1'
+  Fixture-110A:
+    ColumnLoc: 5
+    RowLoc: 2
+    Options: 
+    - 'None'
+    - 'Grip-Op-2'
+  Fixture-110B:
+    ColumnLoc: 5
+    RowLoc: 3
+    Options: 
+    - 'None'
+    - 'Grip-Op-2'
+  Fixture-109A:
+    ColumnLoc: 5
+    RowLoc: 4
+    Options: 
+    - 'None'
+    - 'Grip-Op-2'
+  Fixture-109B:
+    ColumnLoc: 5
+    RowLoc: 5
+    Options: 
+    - 'None'
+    - 'Grip-Op-2'
+
+
+
+
+
+
+
+
+
+
+
